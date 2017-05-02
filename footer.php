@@ -30,6 +30,14 @@
 </head>
 
  <!--FOOTER SECTION 1 START-->
+ <footer id="footer">
+     <section class="instagram">
+       <div class="container">
+         <h2>We’re on Instagram</h2>
+       </div>
+<!-- LightWidget WIDGET --><script src="//lightwidget.com/widgets/lightwidget.js"></script><iframe src="//lightwidget.com/widgets/ff42f6efd649564cb20ec7ba492e0589.html" scrolling="no" allowtransparency="true" class="lightwidget-widget" style="width: 100%; border: 0; overflow: hidden;"></iframe>
+     </section>
+
     <section class="footer-section-1">
       <div class="container">
         <div class="row">
@@ -66,9 +74,10 @@
         </div>
       </div>
     </section>
-    <!--FOOTER SECTION 1 END--> 
-    
+    <!--FOOTER SECTION 1 END-->
+
     <!--FOOTER SECTION 2 START-->
+
     <section class="footer-section-2">
       <div class="container">
         <div class="row">
@@ -86,6 +95,6 @@
         </div>
       </div>
     </section>
-    <!--FOOTER SECTION 2 END--> 
+    <!--FOOTER SECTION 2 END-->
   </footer>
-  <!--FOOTER END--> 
+  <!--FOOTER END-->

@@ -103,7 +103,7 @@
           </div>
        <section class="gallery-style-1 gallery-style-2">
        <div class="filter-nav-box">
-        <div class="portfolioFilter"> 
+        <div class="portfolioFilter">
 		<a href="#" data-filter="*" class="current">All </a>
 		<a href="#" data-filter=".sahyadris">Sahyadris</a> <a href="#" data-filter=".himalayas">Himalayas</a>
 		<a href="#" data-filter=".ladakh">Ladakh</a> <a href="#" data-filter=".camping">Camping</a>
@@ -116,64 +116,64 @@
 		<a href="#" data-filter=".sept">September</a> <a href="#" data-filter=".oct">October</a> <a href="#" data-filter=".nov">November</a> </div>
       </div>
       <div class="container-fluid portfolioContainer">
-	  
+
         <div class="frame sahyadris may"> <img src="images/gallery/style-2/kalsubai.jpg" alt="kalsubai-trek">
           <div class="caption">
             <h3>Kalsubai Trek</h3>
             <em> Kalsubai the most renowned trek in Maharashtra as it is the mountain highest peak sometimes also referred as ‘Everest of Maharashtra’ by many people.</em>
-			<a href="weekend-treks-near-mumbai/kalsubai.php" class="link">See More</a> 
+			<a href="weekend-treks-near-mumbai/kalsubai.php" class="link">See More</a>
 		  </div>
         </div>
-		
+
         <div class="frame sahyadris may"> <img src="images/gallery/style-2/kothaligad.jpg" alt="kothligad-trek">
           <div class="caption">
             <h3>Prabalgad Night Trek</h3>
-            <em> Explore the beautiful night trek of Prabalgad where you would race with the sun and witness your win in the morning.Among the best places to trek Mumbai is the Prabalgad fort.</em> 
+            <em> Explore the beautiful night trek of Prabalgad where you would race with the sun and witness your win in the morning.Among the best places to trek Mumbai is the Prabalgad fort.</em>
 			<a href="weekend-treks-near-mumbai/prabalgad.php" class="link">See More</a>
 			</div>
         </div>
-		
+
 	    <div class="frame ladakh july"> <img src="images/gallery/style-2/ladakh.jpg" alt="ladakh-tour">
 		 <div class="caption">
 			<h3>Wonderland-Ladakh</h3>
-			<em> Wonderland Ladakh will take you through some excellent Himalaya ranges from the lavish green valley of Srinagar, Sonmarg, Kargil to the dry high mountain forsake of Ladakh doing treks and stream boating.</em> 
+			<em> Wonderland Ladakh will take you through some excellent Himalaya ranges from the lavish green valley of Srinagar, Sonmarg, Kargil to the dry high mountain forsake of Ladakh doing treks and stream boating.</em>
 			<a href="trips-to-ladakh/ladakh-tour.php" class="link">See More</a>
 		 </div>
 		</div>
-				
+
 		<div class="frame sahyadris may"> <img src="images/gallery/style-2/fireflies.jpg" alt="fireflies-trek">
 		 <div class="caption">
 			<h3>Rajmachi-  Night Trek with Fireflies</h3>
 			<em>India is home to around 2000 species of fireflies generally seen in pre-monsoons and monsoons seasons
-			you will surely experience some mesmerizing sites to witness fireflies</em> 
+			you will surely experience some mesmerizing sites to witness fireflies</em>
 			<a href="weekend-treks-near-mumbai/rajmachi.php" class="link">See More</a>
 		 </div>
 		</div>
-		
+
 		<div class="frame sahyadris june"> <img src="images/gallery/style-2/kothaligad.jpg" alt="kothligad">
 		 <div class="caption">
 			<h3>Kothligad Trek</h3>
-			<em>This trek is dedicated to people who just wish to start trekking an easy trek with entralling sunrise you don't want to miss</em> 
+			<em>This trek is dedicated to people who just wish to start trekking an easy trek with entralling sunrise you don't want to miss</em>
 			<a href="weekend-treks-near-mumbai/kothligad.php" class="link">See More</a>
 		 </div>
 		</div>
-		
+
         <div class="frame himalayas may"> <img src="images/gallery/style-2/sarpass.jpg" alt="sarpass-trek">
           <div class="caption">
             <h3>Sar Pass</h3>
-            <em>Sar Pass, an alluring retreat from the unbearable heatwave of your city, to a place that is silent yet magnificent in the Himalayas A combination of dedication and pure love for adventure is must for this trek </em> 
+            <em>Sar Pass, an alluring retreat from the unbearable heatwave of your city, to a place that is silent yet magnificent in the Himalayas A combination of dedication and pure love for adventure is must for this trek </em>
 			<a href="trekking-in-himalayas/sarpass.php" class="link">See More</a>
 		  </div>
         </div>
-		
+
        <div class="frame sahyadris june"> <img src="images/gallery/style-2/gorakhgad.jpg" alt="gorakhgad">
 		 <div class="caption">
 			<h3>Gorakhgad</h3>
-			<em>Get Ready for an thrilling trek to Gorakhgad</em> 
+			<em>Get Ready for an thrilling trek to Gorakhgad</em>
 			<a href="weekend-treks-near-mumbai/gorakhgad.php" class="link">See More</a>
 		 </div>
 	    </div>
-		
+
 		<div class="frame himalayas may"> <img src="images/gallery/style-2/bhrigu.jpg" alt="bhrigulake">
           <div class="caption">
             <h3>Bhrigu Lake</h3>
@@ -181,31 +181,31 @@
 			<a href="trekking-in-himalayas/bhrigu-lake.php" class="link">See More</a>
 		  </div>
         </div>
-		
+
         <div class="frame special may"> <img src="images/gallery/style-2/kidscamp.jpg" alt="kidscamp">
           <div class="caption">
             <h3>Kids Summer Adventure Camp</h3>
-            <em>Get your kids ready to explore and learn from nature, activities they will love to perform</em> 
+            <em>Get your kids ready to explore and learn from nature, activities they will love to perform</em>
 			<a href="kids-activities-in-mumbai/kids-camp.php" class="link">See More</a>
 		  </div>
         </div>
-		
+
         <div class="frame camping june"> <img src="images/gallery/style-2/harishchandragad.jpg" alt="harishchandragad-trek">
           <div class="caption">
             <h3>Harishchandragad Camping</h3>
-            <em>A fantastic camping retreat to harishchandragad the best destionation for adventure seekers and trekking-lovers</em> 
+            <em>A fantastic camping retreat to harishchandragad the best destionation for adventure seekers and trekking-lovers</em>
 			<a href="camping-near-mumbai/harishchandragadcamp.php" class="link">See More</a>
 		   </div>
         </div>
-		
+
         <div class="frame sahyadris june"> <img src="images/gallery/style-2/fireflies2.jpg" alt="rajmachi fireflies">
           <div class="caption">
             <h3>Rajmachi- Quest of Fireflies</h3>
-            <em>Come along with us to witness ultimate fireflies festival in Lonavala</em> 
+            <em>Come along with us to witness ultimate fireflies festival in Lonavala</em>
 			<a href="<a href="weekend-treks-near-mumbai/rajmachi.php" class="link">See More</a>
 		  </div>
         </div>
-		
+
         <div class="frame camping"> <img src="images/gallery/style-2/bge.jpg" alt="camping-places-near-mumbai">
           <div class="caption">
             <h3>Blue Green Exotica Camp</h3>
@@ -213,7 +213,7 @@
 			<a href="camping-near-mumbai/bge.php" class="link">See More</a>
 		  </div>
 		</div>
-		
+
         <div class="frame ladakh july"> <img src="images/gallery/style-2/bike.jpg" alt="camping-places-near-mumbai">
 		  <div class="caption">
 			<h3>Ladakh-Bike Trip</h3>
@@ -221,15 +221,15 @@
 			<a href="trips-to-ladakh/bike-trip.php" class="link">See More</a>
 		  </div>
 		</div>
-		
+
         <div class="frame camping"> <img src="images/gallery/style-2/mistyhills.jpg" alt="mistyhills">
           <div class="caption">
             <h3>Misty Hills</h3>
-            <em>Enjoy Hills, Valleys, Mist, Camping,Barbecue the magnificent sounds of bird chirping in the early morning and evening.Push your limits by participating in the range of adventure activities in the Misty Hills Camp</em> 
+            <em>Enjoy Hills, Valleys, Mist, Camping,Barbecue the magnificent sounds of bird chirping in the early morning and evening.Push your limits by participating in the range of adventure activities in the Misty Hills Camp</em>
 			<a href="camping-near-mumbai/mistyhills.php" class="link">See More</a>
 		  </div>
         </div>
-		
+
         <div class="frame himalayas june"> <img src="images/gallery/style-2/bhrigu2.jpg" alt="img">
           <div class="caption">
             <h3>Bhrigu Lake Trek #2</h3>
@@ -237,7 +237,7 @@
 			<a href="trekking-in-himalayas/bhrigu-lake.php" class="link">See More</a>
 		  </div>
         </div>
-		
+
         <div class="frame special nov"> <img src="images/gallery/style-2/runbhoomi.jpg" alt="runbhoomi">
           <div class="caption">
             <h3>Runbhoomi Jungle Run</h3>
@@ -252,7 +252,7 @@
 
 
 	<!--VIDEO SECTION START-->
-	
+
 	<div class="heading-style-2" "cushycms"> <span>A Journey with</span>
         <h2> Bliss</h2>
     </div>
@@ -332,161 +332,235 @@
 					<div class="item">
 						<div class="testi-box">
 							<div class="left-box">
-								<div class="round-thumb"><img src="images/testimonials-style-3-img-1.jpg" alt="img"></div>
-								<strong class="name">Alia Johns</strong> <em>Tourist</em> </div>
-							<div class="right-box"> <em>It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum. That dosen’t seem as a literature. Duis aute irure dolor in reprehenderit in volupta </em> </div>
+								<div class="round-thumb"><img src="images/testimonials/testimonial1.jpg" alt="himalayan trek testimonial"></div>
+								<strong class="name">Purvi Asher</strong> <em>Bhrigu Lake Trek</em> </div>
+							<div class="right-box">
+							<em>
+							Bhrigu Lake Trek was my first experience of Himalayan trek with Altitude Quest Adventure (AQ).
+							Thanks to them for making my first ever trekking experience so pleasant and memorable. 
+							Bhrigu Lake is a beautiful place near Manali.I trekked with the team for three days, and the 
+							experience was exceedingly thrilling.Trekking in the lap of Himalayas is no less than a dream come 
+							true kind of experience.It was an awe-inspiring moment for me to see the mountains that were being covered
+							completely by snow.Every day was filled with some or the other excitment and we loved it to the core.
+                            </em> 
+							</div>
+						</div>
+					</div>
+                   <div class="item">
+						<div class="testi-box">
+							<div class="left-box">
+								<div class="round-thumb"><img src="images/testimonials/testimonial2.jpg" alt="Altitude Quest Testimonial"></div>
+								<strong class="name">Bijal Chawal</strong> <em>Sahyadris Prabalgad</em> </div>
+							<div class="right-box"><em>
+							Altitude quest is the best thing ever happened to me . They are just awesome , positive , 
+							and super enthusiastic . My journey with with altitude quest started when my son was around 6 ish . 
+							Our first trek was to prabalgadh ... which was quiet crazy for us but the altitude guys were just splendid 
+							and catered superbly to my sons spirit and kept him going . Since that day there is no looking back . I completely trust 
+							them and just cannot think of anyone one else in my quest for altitude. 
+                            Manish and Pravin are the soulful questers and I am so grateful to have come across them. Thank u guys for making me a part of this journey ... 
+                            where I have just formed beautiful memories and long lasting friends .
+							</em>
+							</div>
+						</div>
+					</div>
+										<div class="item">
+						<div class="testi-box">
+							<div class="left-box">
+								<div class="round-thumb"><img src="images/testimonials/testimonial3.jpg" alt="kolad water rafting"></div>
+								<strong class="name">Avinash Kokate </strong> <em>Kolad Water Rafting</em> </div>
+							<div class="right-box">
+							<em>
+							Last month, I had been to Kundalika Rafting Camp. 
+							It was my first water rafting experience and was too awesome. It was an adventurous day for me. 
+							The guides were so cooperative, and you will enjoy it to the fullest. 
+							The camp also provides other adventurous activities like kayaking, valley crossing, etc. 
+							The food is too yummy, and the staff is so helpful. They have large lawns so that you can play outdoor games like cricket and badminton. 
+							They have facilities for indoor games as well. However, there are some drawbacks too. No AC, no TV, no mobile network!
+                            </em> 
+							</div>
 						</div>
 					</div>
 					<div class="item">
 						<div class="testi-box">
 							<div class="left-box">
-								<div class="round-thumb"><img src="images/testimonials-style-3-img-2.jpg" alt="img"></div>
-								<strong class="name">John Simpson</strong> <em>Adventurist</em> </div>
-							<div class="right-box"> <em>It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum. That dosen’t seem as a literature. Duis aute irure dolor in reprehenderit in volupta </em> </div>
+								<div class="round-thumb"><img src="images/testimonials/testimonial4.jpg" alt="Ladakh Chadar trek reviews"></div>
+								<strong class="name">Sapna Tiwari</strong> <em>Ladakh Tour</em> </div>
+							<div class="right-box"><em>
+							Ladakh, as everyone wants to visit this place once in his lifetime. 
+                            People usually plan for Ladakh tours in June & July but I wanted to witness this place during winters, 
+                            hence I opted for Chadar Trek, which is said to be one of the toughest trek due to it climate. 
+                            This is an ice trek and is freezing cold and out of all the options I selected to go on this trek with team Altitude Quest, 
+                            and indeed it was one of the best decisions. The experience was fantastic, I literally got Goosebumps while thinking about it.
+                            Walking unwaveringly over the frozen trek was the best thing I did so far. Loved the trek. Highly recommended!
+                            </em>
+							</div>
 						</div>
 					</div>
 					<div class="item">
 						<div class="testi-box">
 							<div class="left-box">
-								<div class="round-thumb"><img src="images/testimonials-style-3-img-1.jpg" alt="img"></div>
-								<strong class="name">Alia Johns</strong> <em>Tourist</em> </div>
-							<div class="right-box"> <em>It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum. That dosen’t seem as a literature. Duis aute irure dolor in reprehenderit in volupta </em> </div>
+								<div class="round-thumb"><img src="images/testimonials/testimonial5.jpg" alt="img"></div>
+								<strong class="name">Anitha Rao</strong> <em>Sahyadris</em> </div>
+							<div class="right-box"><em>
+							Have become an adventure junkie..more so into trekking thanks to AQ..
+                            Started off with trek to Gorakhgad in April 2016, followed by Rajmachi trek and then Kalsubai in June. 
+                            Most recent Naneghat in August.Their spirit of adventure,enthusiam, determination rubs on to you.
+                            I've started trekking pretty late in life, but throughly enjoying every bit of it.
+                            Thank you AQ for all the help and support you given me. You guys rock. Hope to trek more in the future with you all.
+							</em>
+							</div>						
+					</div>
+					</div>
+					<div class="item">
+						<div class="testi-box">
+							<div class="left-box">
+								<div class="round-thumb"><img src="images/testimonials/testimonial6.jpg" alt="sandhan valley trek testimonial"></div>
+								<strong class="name">Nivedita Singh</strong> <em>Sandhan Valley</em> </div>
+							<div class="right-box"><em>
+							Altitude Quest is the most professional trekking group that I have come across. 
+							They are an extremely focused set of professionals, dedicated to organizing treks by
+							providing all the necessary expertise and equipment required to make our trekking experience
+							adventurous and memorable. Their meticulous planning behind the scenes and commitment towards
+							perfection ensures that every individual’s trekking experience is amazing, be it a novice beginner 
+							on his/ her first ever experience with the mountains, or a seasoned trekker out to reconnect with the 
+							mountains for the nth time. Their long years of experience is evident in the remarkable way they handle 
+							children in treks to make trekking the most enjoyable event for children.
+                            </em>
+							</div>						
+					   </div>
+					</div>
+					<div class="item">
+						<div class="testi-box">
+							<div class="left-box">
+								<div class="round-thumb"><img src="images/testimonials/testimonial7.jpg" alt="karnala kids trek testimonial"></div>
+								<strong class="name">Poonam Kurani</strong> <em>Karnala Kids Trek</em> </div>
+							<div class="right-box"><em>
+							I have recently visited the an adventure camp in Kolad whcih was organised by Altitude Quest Adventure team.  This camp was 
+							for every age group, either kids or adults. It is a very enchanting place. Good people, good food, and a good place! I had a 
+							wonderful time here with my friends and family. There are a lot of adventure and outdoor activities to do. River rafting, wall climbing, 
+							rappelling and other fun activities will break the monotony of your routine life, especially trekking. The activities will train you both 
+							physically and mentally.You will also earn a certificate at the end. So, if you and your kids want to get rid off from the daily mundane,
+							this is the place for you. 
+							</em>
+							</div>						
 						</div>
 					</div>
 					<div class="item">
 						<div class="testi-box">
 							<div class="left-box">
-								<div class="round-thumb"><img src="images/testimonials-style-3-img-2.jpg" alt="img"></div>
-								<strong class="name">John Simpson</strong> <em>Adventurist</em> </div>
-							<div class="right-box"> <em>It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum. That dosen’t seem as a literature. Duis aute irure dolor in reprehenderit in volupta </em> </div>
-						</div>
-					</div>
-					<div class="item">
-						<div class="testi-box">
-							<div class="left-box">
-								<div class="round-thumb"><img src="images/testimonials-style-3-img-1.jpg" alt="img"></div>
-								<strong class="name">Alia Johns</strong> <em>Tourist</em> </div>
-							<div class="right-box"> <em>It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum. That dosen’t seem as a literature. Duis aute irure dolor in reprehenderit in volupta </em> </div>
-						</div>
-					</div>
-					<div class="item">
-						<div class="testi-box">
-							<div class="left-box">
-								<div class="round-thumb"><img src="images/testimonials-style-3-img-2.jpg" alt="img"></div>
-								<strong class="name">John Simpson</strong> <em>Adventurist</em> </div>
-							<div class="right-box"> <em>It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum. That dosen’t seem as a literature. Duis aute irure dolor in reprehenderit in volupta </em> </div>
-						</div>
-					</div>
-					<div class="item">
-						<div class="testi-box">
-							<div class="left-box">
-								<div class="round-thumb"><img src="images/testimonials-style-3-img-1.jpg" alt="img"></div>
-								<strong class="name">Alia Johns</strong> <em>Tourist</em> </div>
-							<div class="right-box"> <em>It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum. That dosen’t seem as a literature. Duis aute irure dolor in reprehenderit in volupta </em> </div>
-						</div>
-					</div>
-					<div class="item">
-						<div class="testi-box">
-							<div class="left-box">
-								<div class="round-thumb"><img src="images/testimonials-style-3-img-2.jpg" alt="img"></div>
-								<strong class="name">John Simpson</strong> <em>Adventurist</em> </div>
-							<div class="right-box"> <em>It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum. That dosen’t seem as a literature. Duis aute irure dolor in reprehenderit in volupta </em> </div>
-						</div>
-					</div>
-					<div class="item">
-						<div class="testi-box">
-							<div class="left-box">
-								<div class="round-thumb"><img src="images/testimonials-style-3-img-1.jpg" alt="img"></div>
-								<strong class="name">Alia Johns</strong> <em>Tourist</em> </div>
-							<div class="right-box"> <em>It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum. That dosen’t seem as a literature. Duis aute irure dolor in reprehenderit in volupta </em> </div>
-						</div>
-					</div>
-					<div class="item">
-						<div class="testi-box">
-							<div class="left-box">
-								<div class="round-thumb"><img src="images/testimonials-style-3-img-2.jpg" alt="img"></div>
-								<strong class="name">John Simpson</strong> <em>Adventurist</em> </div>
-							<div class="right-box"> <em>It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum. That dosen’t seem as a literature. Duis aute irure dolor in reprehenderit in volupta </em> </div>
+								<div class="round-thumb"><img src="images/testimonials/testimonial8.jpg" alt="Corporate outbound"></div>
+								<strong class="name">Dolly Wadalkar</strong> <em>Corpotate Outbound</em> </div>
+							<div class="right-box"><em>
+							In the mystic hills of Sahyadri, there's and awesome camp. It is an extraordinary place with a natural beauty and an excellent topography
+							and green surroundings. Don't amaze if you see more than 35 waterfalls during monsoons. The site is equipped with some high-end facilities 
+							including swimming pool, archery, shooting, etc. Team building games like volleyball and zip lining are also there. Overall, it's a great place
+							to stay. Great environment and clean air.The site also has a full-fledged resort. A highly recommended and an ideal location for those who wants 
+							to spend a wonderful weekend.
+							</em>
+							</div>						
 						</div>
 					</div>
 				</div>
 			</div>
 		</section>
 		<!--TESTIMONIALS STYLE 3 END-->
-
-    <!--TEAM STYPE 2 START-->
-    <section class="team-style-2">
+		
+		
+		    <!--TEAM STYPE 1 START-->
+<section class="team-style-1 tour-guides-section">
       <div class="container">
-        <div class="heading-style-1"> <span>Our Very Expert</span>
-          <h2>Guides</h2>
+        <div class="heading-style-2"> <span>Meet Our</span>
+          <h2>Tour Guides</h2>
         </div>
         <div class="row">
-          <div class="col-md-3 col-sm-6">
-            <div class="team-box">
-              <div class="thumb"><img src="images/pravin.jpg" alt="img"></div>
-              <div class="caption">
-                <h3>Pravin </h3>
-                <em>Warrior</em> </div>
-              <div class="team-social-box">
-                <ul>
+          <div class="col-md-3 col-sm-3 col-xs-5">
+            <div class="box">
+              <div class="thumb"> <img src="images/team/pravin.jpg" alt="manish mishra">
+                <div class="caption">
+                  <h3>Pravin Chirmure</h3>
+                  <em>Warrior</em>
+                  <div class="team-social-box-2">
+                 <ul>
                   <li><a href="https://twitter.com/pravin_chirmure"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
                   <li><a href="https://www.facebook.com/pravin.chirmure"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
                   <li><a href="https://www.instagram.com/pravin_chirmure"><i class="fa fa-instagram" aria-hidden="true"></i></a></li>
                 </ul>
+                  </div>
+                </div>
               </div>
+              <div class="text-box">
+                <h3>Pravin</h3>
+                <em>Warrior</em> </div>
             </div>
           </div>
-          <div class="col-md-3 col-sm-6">
-            <div class="team-box">
-              <div class="thumb"><img src="images/manish.jpg" alt="img"></div>
-              <div class="caption">
-                <h3>Manish </h3>
-                <em>Commander</em> </div>
-              <div class="team-social-box">
+          <div class="col-md-3 col-sm-3 col-xs-5">
+            <div class="box">
+              <div class="thumb"> <img src="images/team/manish.jpg" alt="manish mishra">
+                <div class="caption">
+                  <h3>Manish Mishra</h3>
+                  <em>Commander</em>
+                  <div class="team-social-box-2">
                 <ul>
                   <li><a href="https://twitter.com/iamadventure7"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
                   <li><a href="https://www.facebook.com/adventurepreneur7"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
                   <li><a href="https://www.instagram.com/adventureguy7/?hl=en"><i class="fa fa-instagram" aria-hidden="true"></i></a></li>
                 </ul>
+                  </div>
+                </div>
               </div>
+              <div class="text-box">
+                  <h3>Manish Mishra</h3>
+                  <em>Commander</em> </div>
             </div>
           </div>
-          <div class="col-md-3 col-sm-6">
-            <div class="team-box">
-              <div class="thumb"><img src="images/rajat.jpg" alt="img"></div>
-              <div class="caption">
-                <h3>Rajat</h3>
-                <em>Technologist</em> </div>
-              <div class="team-social-box">
-                <ul>
-                  <li><a href="https://twitter.com/ra_entrepreneur"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
-                  <li><a href="https://www.facebook.com/ra.entrepreneur"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
-                  <li><a href="https://www.instagram.com/ra_adventureprenuer/"><i class="fa fa-instagram" aria-hidden="true"></i></a></li>
-                </ul>
+          
+
+          <div class="col-md-3 col-sm-3 col-xs-5">
+            <div class="box">
+              <div class="thumb"> <img src="images/team/rajat.jpg" alt="rajat audichya">
+                <div class="caption">
+                  <h3>Rajat Audichya</h3>
+                  <em>Technologist</em>
+                  <div class="team-social-box-2">
+                  <ul>
+                   <li><a href="https://twitter.com/ra_entrepreneur"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
+                   <li><a href="https://www.facebook.com/ra.entrepreneur"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
+                   <li><a href="https://www.instagram.com/ra_adventureprenuer/"><i class="fa fa-instagram" aria-hidden="true"></i></a></li>
+                  </ul>
+                  </div>
+                </div>
               </div>
+              <div class="text-box">
+                  <h3>Rajat Audichya</h3>
+                  <em>Technologist</em></div>
             </div>
-          </div>
-          <div class="col-md-3 col-sm-6">
-            <div class="team-box">
-              <div class="thumb"><img src="images/divesh.jpg" alt="img"></div>
-              <div class="caption">
-                <h3>Divesh</h3>
-                <em>Artist</em> </div>
-              <div class="team-social-box">
-                <ul>
+			
+          </div><div class="col-md-3 col-sm-3 col-xs-5">
+            <div class="box">
+              <div class="thumb"> <img src="images/team/rajat.jpg" alt="rajat audichya">
+                <div class="caption">
+                  <h3>Divesh Salgaonkar</h3>
+                  <em>Artist</em>
+                  <div class="team-social-box-2">
+                  <ul>
                   <li><a href="#"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
                   <li><a href="https://www.facebook.com/divesh.salgaonkar"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
                   <li><a href="https://instagram.com/_u/kalaakaar?r=sun1"><i class="fa fa-instagram" aria-hidden="true"></i></a></li>
-                </ul>
+                  </ul>
+                  </div>
+                </div>
               </div>
+              <div class="text-box">
+                  <h3>Divesh Salgaonkar</h3>
+                  <em>Artist</em> </div>
             </div>
           </div>
         </div>
       </div>
     </section>
-    <!--TEAM STYPE 2 END-->
-
-    <!--NEWSLETTER SECTION START-->
+    <!--TEAM STYPE 1 END--> 
+		
+		<!--NEWSLETTER SECTION START-->
     <section class="newsletter-section">
       <div class="container">
         <div class="row">

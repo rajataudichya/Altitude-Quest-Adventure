@@ -1100,7 +1100,9 @@ a {
   color: #337ab7;
   text-decoration: none;
   font-size: 400;
-  font: 400 17px/30px 'Poppins', sans-serif;
+  font: 400 20px/30px 'Poppins', sans-serif;
+  text-transform: lowercase;
+  color: cadetblue;
 }
 a:hover,
 a:focus {
@@ -3537,13 +3539,15 @@ tbody.collapse.in {
   list-style: none;
   background-color: #fff;
   -webkit-background-clip: padding-box;
-          background-clip: padding-box;
+  background-clip: padding-box;
   border: 1px solid #ccc;
   border: 1px solid rgba(0, 0, 0, .15);
   border-radius: 4px;
   -webkit-box-shadow: 0 6px 12px rgba(0, 0, 0, .175);
-          box-shadow: 0 6px 12px rgba(0, 0, 0, .175);
+  box-shadow: 0 6px 12px rgba(0, 0, 0, .175);
 }
+
+ul.dropdown-menu.mega-dropdown-menu.row {}
 .dropdown-menu.pull-right {
   right: 0;
   left: auto;
@@ -3988,7 +3992,7 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
 .nav > li > a {
   position: relative;
   display: block;
-  padding: 10px 15px;
+  padding: 10px 8px;
 }
 .nav > li > a:hover,
 .nav > li > a:focus {
@@ -4170,9 +4174,11 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
 }
 .navbar {
   position: relative;
-  min-height: 50px;
-  margin-bottom: 20px;
+  min-height: 59px;
+  /* margin-bottom: 20px; */
   border: 1px solid transparent;
+  left: -13px;
+  width: 103%;
 }
 @media (min-width: 768px) {
   .navbar {
@@ -4366,7 +4372,7 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
   }
   .navbar-nav > li > a {
     padding-top: 15px;
-    padding-bottom: 15px;
+    /* padding-bottom: 15px; */
   }
 }
 .navbar-form {
@@ -4502,7 +4508,10 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
   border-color: #e7e7e7;
 }
 .navbar-default .navbar-brand {
-  color: #777;
+  color: #efc933;
+  font: 400 30px/23px 'Montserrat', sans-serif;
+  text-transform: UPPERCASE;
+  padding-left: 66px;
 }
 .navbar-default .navbar-brand:hover,
 .navbar-default .navbar-brand:focus {
@@ -4513,7 +4522,7 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
   color: #777;
 }
 .navbar-default .navbar-nav > li > a {
-  color: #777;
+  color: #000000;
 }
 .navbar-default .navbar-nav > li > a:hover,
 .navbar-default .navbar-nav > li > a:focus {

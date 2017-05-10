@@ -33,8 +33,14 @@
 <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,400italic,700,600' rel='stylesheet' type='text/css'>
 <link href="https://fonts.googleapis.com/css?family=Montserrat|Poppins|Roboto" rel="stylesheet">
 
+<!--SCRIPTS-->
 <script type="text/javascript" src="js/jquery-1.10.2.min.js"></script>
+<!--IMAGE MOVING EFFECT-->
+<script src="js/function.js"></script>
+<!--ISOTOPE-->
+<script src="js/isotope.pkgd.min.js"></script>
 
+<?php Header("Cache-Control: max-age=300, must-revalidate"); ?>
 
 </head>
 
@@ -49,6 +55,8 @@
 
 <?php include("header.php"); ?>
 
+<?php include("navbar.php"); ?>
+
   <!--HEADER END-->
 
   <!--BANNER START-->
@@ -58,6 +66,7 @@
         <div class="caption">
           <div class="container">
             <div class="caption-style-1">
+              <h1> Top adventure tour operator in India </h1>			
 
               </div>
           </div>
@@ -89,7 +98,7 @@
 
 						nature lovers and trekking group in Mumbai, conducting treks near Mumbai in monsoons. And now
 
-						arranging best Himalayan Treks, Ladakh Tours and many other beautiful locations in India</em>
+						arranging best Himalayan Treks, Ladakh Tours and many other beautiful locations in India.</em>
 
 				</div>
 			</div>
@@ -272,7 +281,7 @@
       </section>
       <!--VIDEO SECTION END-->
 
- 	  <!--BLOG POST SECTION START-->
+ 	  <!--BLOG POST SECTION START
     <section class="blog-post-section">
       <div class="container">
         <div class="heading-style-2"> <span>Our Recent</span>
@@ -320,7 +329,7 @@
         </div>
       </div>
     </section>
-    <!--BLOG POST SECTION END-->
+    BLOG POST SECTION END-->
 
 		<!--TESTIMONIALS STYLE 3 START-->
 		<section class="testimonials-style-3">
@@ -350,7 +359,7 @@
 						<div class="testi-box">
 							<div class="left-box">
 								<div class="round-thumb"><img src="images/testimonials/testimonial2.jpg" alt="Altitude Quest Testimonial"></div>
-								<strong class="name">Bijal Chawal</strong> <em>Sahyadris Prabalgad</em> </div>
+								<strong class="name">Bijal Chawla</strong> <em>Sahyadris Prabalgad</em> </div>
 							<div class="right-box"><em>
 							Altitude quest is the best thing ever happened to me . They are just awesome , positive , 
 							and super enthusiastic . My journey with with altitude quest started when my son was around 6 ish . 
@@ -449,7 +458,7 @@
 						<div class="testi-box">
 							<div class="left-box">
 								<div class="round-thumb"><img src="images/testimonials/testimonial8.jpg" alt="Corporate outbound"></div>
-								<strong class="name">Dolly Wadalkar</strong> <em>Corpotate Outbound</em> </div>
+								<strong class="name">Dolly Wadalkar</strong> <em>Corporate Outbound</em> </div>
 							<div class="right-box"><em>
 							In the mystic hills of Sahyadri, there's and awesome camp. It is an extraordinary place with a natural beauty and an excellent topography
 							and green surroundings. Don't amaze if you see more than 35 waterfalls during monsoons. The site is equipped with some high-end facilities 
@@ -475,7 +484,7 @@
         <div class="row">
           <div class="col-md-3 col-sm-3 col-xs-5">
             <div class="box">
-              <div class="thumb"> <img src="images/team/pravin.jpg" alt="manish mishra">
+              <div class="thumb"> <img src="images/team/pravin.png" alt="manish mishra">
                 <div class="caption">
                   <h3>Pravin Chirmure</h3>
                   <em>Warrior</em>
@@ -495,7 +504,7 @@
           </div>
           <div class="col-md-3 col-sm-3 col-xs-5">
             <div class="box">
-              <div class="thumb"> <img src="images/team/manish.jpg" alt="manish mishra">
+              <div class="thumb"> <img src="images/team/manish.png" alt="manish mishra">
                 <div class="caption">
                   <h3>Manish Mishra</h3>
                   <em>Commander</em>
@@ -517,7 +526,7 @@
 
           <div class="col-md-3 col-sm-3 col-xs-5">
             <div class="box">
-              <div class="thumb"> <img src="images/team/rajat.jpg" alt="rajat audichya">
+              <div class="thumb"> <img src="images/team/rajat.png" alt="rajat audichya">
                 <div class="caption">
                   <h3>Rajat Audichya</h3>
                   <em>Technologist</em>
@@ -537,7 +546,7 @@
 			
           </div><div class="col-md-3 col-sm-3 col-xs-5">
             <div class="box">
-              <div class="thumb"> <img src="images/team/rajat.jpg" alt="rajat audichya">
+              <div class="thumb"> <img src="images/team/divesh.png" alt="divesh">
                 <div class="caption">
                   <h3>Divesh Salgaonkar</h3>
                   <em>Artist</em>

@@ -100,6 +100,19 @@ strong.logo-2 {
 .popular-box li{
 	clear:both;
 }
+
+#banner .item img{
+	width:100%;
+	display:block;
+	border: 2px solid #a0a09f;
+}
+
+.navbar-collapse.collapse {
+	width="103%";
+}
+
+
+
 .sidebar-box p{
 	margin:0;
 }

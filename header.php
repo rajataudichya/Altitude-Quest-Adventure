@@ -46,47 +46,5 @@
     </section>
     <!--TOP BAR SECTION END--> 
     
-    <!--LOGO SECTION START-->
-    <section class="logo-section"> <strong class="logo-2"><a href="index.html"><img src="images/logo-2.png" alt="logo"></a></strong>
-     
-  <div class="book-section"> 
-        <div class="number-box"> <i class="fa fa-phone"></i>
-          <div class="number-text"> <span>Call us for any Query</span> <strong>9833722236</strong> </div>
-        </div>
-      </div>
-      <!--MAIN NAVIGATION SECTION START-->
-      <div class="container">
-        <section class="main-navigation">
-          <nav class="navbar navbar-inverse">
-            <div class="navbar-header">
-              <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar"> <span class="sr-only">Toggle navigation</span> <span class="icon-bar"></span> <span class="icon-bar"></span> <span class="icon-bar"></span> </button>
-            </div>
-            <div class="nav-outer">
-              <div id="navbar" class="collapse navbar-collapse">
-                <ul class="nav navbar-nav" id="nav">
-                  <li><a href="index.php">Home</a></li>
-                  <li><a href="trekking.php">Trekking<i class="fa fa-caret-down"></i></a>
-                    <ul>
-                      <li><a href="sahyadris.php">SAHYADRIS</a></li>
-                      <li><a href="himalayas.php">HIMALAYAS</a></li>
-                      <li><a href="himalayas.php">LADAKH</a></li>
 
-                    </ul>
-                  </li>
-                  <li><a href="camping.php">CAMPING</a>
-                    
-                  </li>
-                  <li><a href="event.php">Spl Events</a>
-                  </li>
-                  <li><a href="https://altitudequestblog.wordpress.com/">Blog</a>
-                  </li><li><a href="contact.php">Contact us</a></li>
-                </ul>
-              </div>
-            </div>
-          </nav>
-        </section>
-      </div>
-      <!--MAIN NAVIGATION SECTION END--> 
-    </section>
-    <!--LOGO SECTION END-->
 </header>

@@ -716,7 +716,7 @@ strong.logo {
 }
 #nav li a:before {
 	color: transparent;
-	content: "â€¢";
+	content: "•";
 	font-size: 1.2em;
 	left: 0;
 	right: 0;
@@ -982,8 +982,7 @@ strong.logo {
 	width:100%;
 	display:block;
 	/* opacity: 0.4; */
-	/* padding: 0 0px 20px 0px; */
-	border: 2px solid #a0a09f;
+	padding: 10px 0px 20px 0px;
 }
 #banner .caption {
 	position: absolute;
@@ -1013,7 +1012,6 @@ strong.logo {
 	-moz-text-shadow: 0 5px 5px rgba(0,0,0,0.3);
 	-webkit-text-shadow: 0 5px 5px rgba(0,0,0,0.3);
 	text-align: center;
-	text-transform: uppercase;
 }
 .caption-style-2 {
 	float: right;
@@ -1188,7 +1186,7 @@ select option {
 .campers-text-section {
 	float: left;
 	width: 100%;
-	padding: 54px 0;
+	padding: 75px 0;
 }
 .campers-text-section em {
 	font: 400 18px/30px 'Poppins', sans-serif;
@@ -2114,7 +2112,7 @@ code {
 	padding: 75px 0 0 0;
 }
 .blog-larg {
-	padding: 12px 0 0 0;
+	padding: 75px 0 0 0;
 }
 .blog-post-section.blog-larg .pagination-area{
 	margin:25px 0 75px 0;
@@ -2479,7 +2477,7 @@ code {
 	background-repeat: no-repeat;
 	background-position: left top;
 	background-size: cover;
-	/* background-color: #fff; */
+	background-color: #fff;
 	height: 400px;
 	position: relative;
 	margin: 0 0 180px 0;
@@ -2565,11 +2563,11 @@ code {
 #footer {
 	float: left;
 	width: 100%;
-	background-image: ur);
-	/* background-position: left top; */
-	/* background-repeat: no-repeat; */
-	/* background-size: cover; */
-	background-color: #fff;
+	background-image: url(../images/footer-bg.png);
+	background-position: left top;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-color: #000;
 	padding: 5px 0px 7px 0;
 }
 .instagram {
@@ -2608,8 +2606,8 @@ code {
 	float: left;
 	width: 100%;
 	padding: 20px 0 20px 0;
-	/* background-color: #000000; */
-	background-image: url(https://pcbx.us/bfjb.jpg);
+	background-color: #000000;
+	background-image: url(../images/footer.jpg);
 }
 strong.footer-logo {
 	float: left;
@@ -2617,7 +2615,7 @@ strong.footer-logo {
 }
 .footer-section-1 p {
 	clear: both;
-	color: #000;
+	color: #ccc;
 	font-size: 16px;
 	margin: 0 0 25px 0;
 }
@@ -2632,7 +2630,7 @@ strong.footer-logo {
 	width: 100%;
 }
 .footer-section-1 h3 {
-	color: #000;
+	color: #fff;
 	margin: 0 0 20px 0;
 }
 .footer-section-1 .footer-box ul {
@@ -2728,11 +2726,11 @@ strong.footer-logo {
 }
 .footer-section-1 .footer-box address .text-box strong {
 	font: 700 20px/24px 'Montserrat', sans-serif;
-	color: #000;
+	color: #ccc;
 }
 .footer-section-1 .footer-box address .text-box a {
 	font: 700 18px/24px 'Montserrat', sans-serif;
-	color: #000;
+	color: #ccc;
 	text-decoration: none;
 	padding: 0;
 }
@@ -3491,17 +3489,15 @@ strong.logo-2 {
 	background-repeat: no-repeat;
 	background-position: left top;
 	background-size: cover;
-	background-color: #efc933;
-	padding: 6px 0 6px 0;
+	background-color: #b2b2b2;
+	padding: 72px 0 45px 0;
 	margin-top: 22px;
-	margin-bottom: 12px;
 }
 #inner-banner h1 {
-	font: 700 44px/70px 'Poppins', sans-serif;
+	font: 700 70px/70px 'Poppins', sans-serif;
 	color: #fff;
-	margin: 0 0 0 0;
-	text-align: left;
-	margin-left: 11px;
+	margin: 0 0 30px 0;
+	text-align: center;
 }
 .breadcrumb-area {
 	float: left;
@@ -5409,7 +5405,6 @@ strong.logo-2 {
 	display: block;
 	padding: 0 0 10px 0;
 	margin: -3px 0 0 0;
-	text-transform: inherit;
 }
 .popular-box .text-box span {
 	display: block;
@@ -5445,7 +5440,6 @@ strong.logo-2 {
 	display: block;
 	text-decoration: none;
 	padding: 0 0 10px 0;
-	text-transform: initial;
 }
 .upcoming-box:hover a{
 	text-decoration:none;
@@ -6226,6 +6220,3 @@ strong.logo-2 {
 
  
 
-
- 
- 

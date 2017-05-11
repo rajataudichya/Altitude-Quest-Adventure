@@ -55,7 +55,7 @@
 
 <?php include("header.php"); ?>
 
-<?php include("navbar.php"); ?>
+<?php include("nav.php"); ?>
 
   <!--HEADER END-->
 
@@ -76,10 +76,6 @@
               </div>
           </div>
         </div>
-     </div>
-    </div>
-    </div>
-  </div>
   <!--BANNER END-->
 
   <div id="main">
@@ -101,8 +97,9 @@
 						arranging best Himalayan Treks, Ladakh Tours and many other beautiful locations in India.</em>
 
 				</div>
-			</div>
-		</section>
+                </div>
+            </div>
+      </section>
 
     <!--if you wish to join as email us hello@altitudequest.com-->
 
@@ -211,7 +208,7 @@
           <div class="caption">
             <h3>Rajmachi- Quest of Fireflies</h3>
             <em>Come along with us to witness ultimate fireflies festival in Lonavala</em>
-			<a href="<a href="weekend-treks-near-mumbai/rajmachi.php" class="link">See More</a>
+			<a href="weekend-treks-near-mumbai/rajmachi.php" class="link">See More</a>
 		  </div>
         </div>
 
@@ -611,7 +608,8 @@
         <li><a href="#"><img src="images/instagram/instagram-img-7.jpg" alt="img"></a></li>
         <li><a href="#"><img src="images/instagram/instagram-img-8.jpg" alt="img"></a></li>
       </ul>
-    </section> -->
+    </section>
+    
 
 <?php include("footer.php"); ?>
 

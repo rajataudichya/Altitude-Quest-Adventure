@@ -51,7 +51,7 @@ strong.logo-2 {
 	width: auto !important;
 }
 .caption-style-2 {
-	margin: 50px 0 0 0;
+	margin: 54px -10px -31px -57px;
 }
 .activites-box-outer {
 	text-align: center;
@@ -100,6 +100,22 @@ strong.logo-2 {
 .popular-box li{
 	clear:both;
 }
+
+#banner .item img{
+	width:100%;
+	display:block;
+	border: 2px solid #a0a09f;
+}
+
+.navbar-collapse.collapse {
+	width="103%";
+	width: 386px;
+	margin: -26px;
+	padding-bottom: 16px;
+}
+
+
+
 .sidebar-box p{
 	margin:0;
 }
@@ -240,7 +256,8 @@ strong.logo {
 	display: block;
 }
 .caption-style-1 h1 {
-	margin: 0 0 20px 0;
+	margin: 97px 34px 11px 202px;
+	width: 100%;
 }
 .caption-style-1 em {
 	margin: 0 0 10px 0;
@@ -613,7 +630,7 @@ div.content_cp_accor{
 							/*480px CSS*/
 /*===========================================================================*/
 
-@media (min-width: 320px) and (max-width: 480px) {
+@media (max-width: 480px) and (min-width: 320px) {
 .top-social ul {
 	display: block;
 	text-align: center;
@@ -946,7 +963,7 @@ strong.logo {
 	display: block;
 }
 .caption-style-1 h1 {
-	margin: 0 0 10px 0;
+	margin: 23px 24px 19px 90px;
 }
 .caption-style-1 em {
 	margin: 0 0 10px 0;
@@ -2030,7 +2047,7 @@ strong.logo-2 {
 	height:auto;
 }
 #inner-banner{
-	padding:100px 0;
+	padding: 72px 0 18px;
 }
 .blog-post-section .post-box .text-box h3{
 	font-size:16px;
@@ -2085,11 +2102,14 @@ strong.logo-2 {
 }
 .header-style-2 .main-navigation, .header-style-2 .main-navigation .navbar-collapse, .gallery-style-1 .frame img {
 	width: 100%;
+	background: #00;
 }
 .header-style-2 #nav {
-	display: block;
+	display: inline-block;
 	text-align: center;
-	width: 100%;
+	width: auto;
+	/* background: #000; */
+	/* float: right; */
 }
 .header-style-2 #nav li {
 	float: none;

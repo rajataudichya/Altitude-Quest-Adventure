@@ -15,28 +15,32 @@
     <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,400italic,700,600' rel='stylesheet' type='text/css'>
     <script src="js/menu.js"></script>
 </head>
+
 <!--MAIN NAVIGATION SECTION START-->
 <div class="container.fluid">
     <nav class="navbar navbar-default">
         <div class="navbar-header">
-          <div class="col-md-3 col-lg-3">
-             <a href="index.php"> </a>
-          </div> 
             <button class="navbar-toggle" type="button" data-toggle="collapse" data-target=".js-navbar-collapse">
         <span class="sr-only">Toggle navigation</span>
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
       </button>
+      
+        <a href="index.php"> <img class="aqlogo" src="images/footer-logo.png">
+        </a>
+    </div>
         <div class="navbar-collapse js-navbar-collapse collapse" aria-expanded="false" style="margin-bottom: 27px; height: 1px;">
-               <ul class="nav navbar-nav">
-                <li class="dropdown mega-dropdown">
+            <ul class="nav navbar-nav">
+                <li class="dropdown mega-dropdown" style="
+    margin-left: 50px;
+">
 
                     <ul class="nav navbar-nav">
-                        <li class="dropdown mega-dropdown" style="
-">
-                            <a href="#" class="dropdown-toggle" data-toggle="dropdown" aria-expanded="false" style="left: 40px;">Weekend Treks<i class="fa fa-caret-down" aria-hidden="true"></i></a>
-                            <ul class="dropdown-menu mega-dropdown-menu row" style=" left: 41px;">
+                        <li class="dropdown mega-dropdown">
+                            <a href="#" class="dropdown-toggle" data-toggle="dropdown" aria-expanded="false" style="
+    left: 7;">Weekend Treks<i class="fa fa-caret-down" aria-hidden="true"></i></a>
+                            <ul class="dropdown-menu mega-dropdown-menu row" style=" left: 13px;">
                                 <li class="col-sm-3">
                                     <ul>
                                         <li class="dropdown-header">New in Stores</li>
@@ -49,14 +53,14 @@
                                                     <button href="#" class="btn btn-default" type="button"><span class="glyphicon glyphicon-heart"></span> Add to Wishlist</button>
                                                 </div>
                                                 <!-- End Item -->
-                                                <div class="item active">
+                                                <div class="item">
                                                     <a href="#"><img src="http://placehold.it/254x150/ef5e55/f5f5f5/&amp;text=New+Collection" class="img-responsive" alt="product 2"></a>
                                                     <h4><small>Gold sandals with shiny touch</small></h4>
                                                     <button class="btn btn-primary" type="button">9,99 €</button>
                                                     <button href="#" class="btn btn-default" type="button"><span class="glyphicon glyphicon-heart"></span> Add to Wishlist</button>
                                                 </div>
                                                 <!-- End Item -->
-                                                <div class="item">
+                                                <div class="item active">
                                                     <a href="#"><img src="http://placehold.it/254x150/2ecc71/f5f5f5/&amp;text=New+Collection" class="img-responsive" alt="product 3"></a>
                                                     <h4><small>Denin jacket stamped</small></h4>
                                                     <button class="btn btn-primary" type="button">49,99 €</button>
@@ -120,11 +124,12 @@
                     </ul>
                     <ul class="nav navbar-nav">
                         <li class="dropdown mega-dropdown">
-                            <a href="#" class="dropdown-toggle" data-toggle="dropdown" aria-expanded="false" style="left: 40px;">Adventure Tours
-  <i class="fa fa-caret-down" aria-hidden="true"></i></a>
+                            <a href="#" class="dropdown-toggle" data-toggle="dropdown" aria-expanded="false" style="
+    left: 7;
+">Adventure Tours<i class="fa fa-caret-down" aria-hidden="true"></i></a>
 
                             <ul class="dropdown-menu mega-dropdown-menu row" style="
-    left: 41px;
+    left: 40px;
     /* transition: 0.5s; */
 ">
                                 <li class="col-sm-3">
@@ -211,8 +216,7 @@
 
                     <ul class="nav navbar-nav">
                         <li class="dropdown mega-dropdown">
-                            <a href="#" class="dropdown-toggle" data-toggle="dropdown" aria-expanded="false" style="left: 40px;">Camping Trips
-  <i class="fa fa-caret-down" aria-hidden="true"></i></a>
+                            <a href="#" class="dropdown-toggle" data-toggle="dropdown" aria-expanded="false">Camping Trip<i class="fa fa-caret-down" aria-hidden="true"></i></a>
 
                             <ul class="dropdown-menu mega-dropdown-menu row" style="
     left: 80px;
@@ -301,7 +305,7 @@
 
                     <ul class="nav navbar-nav">
                         <li class="dropdown mega-dropdown">
-                            <a href="#" class="dropdown-toggle" data-toggle="dropdown" aria-expanded="false" style="left: 40px;">stories &amp; guide<i class="fa fa-caret-down" aria-hidden="true"></i></a>
+                            <a href="#" class="dropdown-toggle" data-toggle="dropdown" aria-expanded="false">Stories &amp; Guide<i class="fa fa-caret-down" aria-hidden="true"></i></a>
                             <ul class="dropdown-menu mega-dropdown-menu row" style="
     left: 120px;
 ">
@@ -389,7 +393,7 @@
 
                     <ul class="nav navbar-nav">
                         <li class="dropdown mega-dropdown">
-                            
+                            <a href="#" class="dropdown-toggle" data-toggle="dropdown" aria-expanded="false">Special Events<i class="fa fa-caret-down" aria-hidden="true"></i></a>
 
                             <ul class="dropdown-menu mega-dropdown-menu row" style="
     left: 160px;
@@ -480,6 +484,5 @@
                 </li>
             </ul>
         </div>
-    </div>
     </nav>
 </div>

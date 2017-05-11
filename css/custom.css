@@ -654,6 +654,22 @@ strong.logo {
 	float: left;
 	width: 100%;
 }
+
+#myButton {
+    background-color: rgb(250, 204, 11);
+    border-radius: 24px;
+    display: inline-block;
+    cursor: pointer;
+    color: rgb(0, 0, 0);
+    font-family: Poppins;
+    font-size: 11px;
+    padding: 10px 21px;
+    text-decoration: none;
+    text-shadow: rgb(98, 102, 40) 0px 1px 0px;"
+;;;;;;;;;;;;;;;;;;;;;margin-left: 80px;;;;;;;;;;;;;;;;;;;;;;
+;;;margin-top: 10px;;;;
+}
+
 .main-navigation .navbar-inverse {
 	background-color: transparent;
 	border-color: transparent;
@@ -716,7 +732,7 @@ strong.logo {
 }
 #nav li a:before {
 	color: transparent;
-	content: "â€¢";
+	content: "ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€šÃ‚Â¢";
 	font-size: 1.2em;
 	left: 0;
 	right: 0;
@@ -988,8 +1004,8 @@ strong.logo {
 #banner .caption {
 	position: absolute;
 	left: 0;
-	top: 100px;
-	width: 100%;
+	top: 0;
+	width: 48%;
 }
 .caption-style-1 {
 	float: left;
@@ -1006,14 +1022,14 @@ strong.logo {
 	padding: 0 0 20px 0;
 }
 .caption-style-1 h1 {
-	font: 700 75px/109px 'Montserrat', sans-serif;
+	font: 700 66px/104px 'Poppins', sans-serif;
 	color: #000;
 	margin: 0;
-	/* text-shadow: 0 5px 5px rgba(0,0,0,0.3); */
+	text-shadow: 0 5px 5px rgba(0,0,0,0.3);
 	-moz-text-shadow: 0 5px 5px rgba(0,0,0,0.3);
 	-webkit-text-shadow: 0 5px 5px rgba(0,0,0,0.3);
 	text-align: center;
-	text-transform: uppercase;
+	text-transform: capitalize;
 }
 .caption-style-2 {
 	float: right;
@@ -3493,7 +3509,7 @@ strong.logo-2 {
 	background-size: cover;
 	background-color: #efc933;
 	padding: 6px 0 6px 0;
-	margin-top: 22px;
+	/* margin-top: 22px; */
 	margin-bottom: 12px;
 }
 #inner-banner h1 {
@@ -5943,7 +5959,7 @@ strong.logo-2 {
 	font-size: 14px;
 }
 .event-detail .tips-detail-list {
-	margin: 0 0 20px 0;
+	margin: 0 0 45px 0;
 }
 .event-photo {
 	float: left;
